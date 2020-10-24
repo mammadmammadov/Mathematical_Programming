@@ -1,3 +1,4 @@
+#This program finds the product of two binary numbers
 def convertToDecimal(number):
     numberInString=str(number)
     reversedNumberInString=numberInString[::-1]
